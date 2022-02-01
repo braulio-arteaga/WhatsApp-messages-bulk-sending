@@ -34,10 +34,10 @@ Este notebook (python) te permite enviar mensajes masivos de WhatsApp.
 `pip install pytz` (time zone)
 
 ## Aplicación
-* PASO 1: Descargar el repositorio.  
-* PASO 2: Cumplir con los requisitos previos.  
-* PASO 3: Modificar las rutas del directorio (MAIN, INPUT y OUTPUT).  
-* PASO 4: Modificar el nombre del archivo y las columnas a lo largo del código.
+* **PASO 1:** Descargar el repositorio.  
+* **PASO 2:** Cumplir con los requisitos previos.  
+* **PASO 3:** Modificar las rutas del directorio (MAIN, INPUT y OUTPUT).  
+* **PASO 4:** Modificar el nombre del archivo y las columnas a lo largo del código.
 
 
 ## Notas
@@ -48,5 +48,10 @@ Este notebook (python) te permite enviar mensajes masivos de WhatsApp.
 
 ## Advertencia
 Este código no está afiliado, autorizado, mantenido, patrocinado ni respaldado de ninguna manera por WhatsApp ni de sus filiales o subsidiarias. Este es un software independiente y no oficial. **Solo utilizarlo para fines acádemicos**. El **uso comercial** de este código/repo está estrictamente **prohibido**. 
+
+Agradecimientos a [Ramesh Kumar](https://github.com/inforkgodara). Este repositorio se baso en uno de tus [repositorios](https://github.com/inforkgodara/whatsapp-bulk-messages-without-saving-contacts)  
+
+📬 Escríbeme a mi correo **marden.arteaga@unmsm.edu.pe** para cualquier duda/problema/sugerencia con este repositorio
+
 
 
