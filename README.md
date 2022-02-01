@@ -2,9 +2,9 @@
 
 Este notebook (python) te permite enviar mensajes masivos de WhatsApp.  
 
-* El insumo principal es una [hoja excel](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/blob/main/01_input/list.xlsx) que contenga los números y mensajes de interés. 📝
+* El insumo principal es una [hoja excel](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/blob/main/01_input/list_phone_sms.xlsx) que contenga los números y mensajes de interés. 📝
 * La ejecución del [notebook](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/blob/main/02_codes/01_send_wsp_selenium.ipynb) no impide realizar otras tareas en simultáneo con tu portátil/pc. 🤗 
-* Al finalizar, se obtiene un [reporte](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/blob/main/03_output/report_send_wsp_30-01-22.xlsx) sobre el estado de envío de los mensajes según número de contacto ¡Así validas sí todos los sms fueron entregados con éxito! 💯  
+* Al finalizar, se obtiene un [reporte](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/blob/main/03_output/report_send_wsp_01-02-22.xlsx) sobre el estado de envío de los mensajes según número de contacto ¡Así validas sí todos los sms fueron entregados con éxito! 💯  
 
 <p align="center">
   <img src="https://c.tenor.com/O29iHtSG6OsAAAAC/jim-carrey-jim-carrey-typing.gif"/>
