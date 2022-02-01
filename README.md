@@ -22,7 +22,7 @@ Este notebook (python) te permite enviar mensajes masivos de WhatsApp.
 ## Carpetas
 📁 [01_input](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/tree/main/01_input): Contiene el excel con los números y mensajes a enviar, así como el chromDriver.exe (versión 97.0.4692.71).  
 📁 [02_codes](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/tree/main/02_codes): Contiene el notebook que realiza la automatización del envío de mensajes.  
-📁 [03_output](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/tree/main/03_output): Contiene el reporte final de envío de mensajes.
+📁 [03_output](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/tree/main/03_output): Contiene el reporte final de los estados de envío.
 
 ## Requisitos   
 * Descargar el chromeDriver.exe ([click aquí](https://chromedriver.chromium.org/downloads)) según la versión de tu navegador chrome. 
