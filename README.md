@@ -49,6 +49,13 @@ Este notebook (python) te permite enviar mensajes masivos de WhatsApp.
 ## Advertencia
 Este código no está afiliado, autorizado, mantenido, patrocinado ni respaldado de ninguna manera por WhatsApp ni de sus filiales o subsidiarias. Este es un software independiente y no oficial. **Solo utilizarlo para fines acádemicos**. El **uso comercial** de este código/repo está estrictamente **prohibido**. 
 
+
+<p align="center">
+  <img src="https://c.tenor.com/WKWonIB6gjIAAAAC/police-siren-siren.gif"/>
+</p>
+
+
+
 Agradecimientos a [Ramesh Kumar](https://github.com/inforkgodara). Este repositorio se baso en uno de tus [repositorios](https://github.com/inforkgodara/whatsapp-bulk-messages-without-saving-contacts)  
 
 📬 Escríbeme a mi correo **marden.arteaga@unmsm.edu.pe** para cualquier duda/problema/sugerencia con este repositorio
