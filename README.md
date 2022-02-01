@@ -7,7 +7,7 @@ Este notebook (python) te permite enviar mensajes masivos de WhatsApp.
 * Al finalizar, se obtiene un [reporte](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/blob/main/03_output/report_send_wsp_30-01-22.xlsx) sobre el estado de envío de los mensajes según número de contacto ¡Así validas sí todos los sms fueron entregados! 💯
 
 
-![](https://dribbble.com/shots/2546595-Insta-Stress)
+![](https://cdn.dribbble.com/users/1031509/screenshots/2546595/media/018ccfe2ee5f8ad162a72a3b449e9288.gif)
 
 
 
