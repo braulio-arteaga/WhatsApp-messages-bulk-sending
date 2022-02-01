@@ -1,6 +1,6 @@
 # WhatsApp messages bulk sending 
 
-👨‍💻 El notebook (python) te permitirá enviar mensajes masivos de WhatsApp 📩. 
+👨‍💻 El notebook (python) te permitirá enviar mensajes masivos de WhatsApp 📩 
 
 * El insumo principal es un [archivo xlsx](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/blob/main/01_input/list.xlsx) que contenga los números y mensajes de interés.   
 * La ejecución del [notebook](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/blob/main/02_codes/01_send_wsp_selenium.ipynb) no impide realizar otras tareas en simultáneo con tu portátil/pc.  
@@ -18,4 +18,4 @@
 
 
 ## Advertencia
-Este código no está afiliado, autorizado, mantenido, patrocinado ni respaldado de ninguna manera por WhatsApp ni por ninguna de sus filiales o subsidiarias. Este es un software independiente y no oficial. Úselo bajo su propio riesgo. **Solo utilizarlo para fines acádemicos**. El **uso comercial** de este código/repo está estrictamente **prohibido**. 
+Este código no está afiliado, autorizado, mantenido, patrocinado ni respaldado de ninguna manera por WhatsApp ni de sus filiales o subsidiarias. Este es un software independiente y no oficial. **Solo utilizarlo para fines acádemicos**. El **uso comercial** de este código/repo está estrictamente **prohibido**. 
