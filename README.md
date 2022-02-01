@@ -56,7 +56,7 @@ Este código no está afiliado, autorizado, mantenido, patrocinado ni respaldado
 
 
 
-Agradecimientos a [Ramesh Kumar](https://github.com/inforkgodara). El código principal se baso en uno de tus [repositorios](https://github.com/inforkgodara/whatsapp-bulk-messages-without-saving-contacts)  
+Agradecimientos a [Ramesh Kumar](https://github.com/inforkgodara). El código principal se baso en uno de sus [repositorios](https://github.com/inforkgodara/whatsapp-bulk-messages-without-saving-contacts)  
 
 📬 Escríbeme a mi correo **marden.arteaga@unmsm.edu.pe** para cualquier duda/problema/sugerencia con este repositorio.  
  
