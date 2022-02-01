@@ -27,7 +27,7 @@ Este notebook (python) te permite enviar mensajes masivos de WhatsApp.
 ## Notas
 * Los número de teléfono **no necesariamente** deben estar guardados previamente en la cuenta de WhatsApp desde dónde se realizará el envío.  
 * La correcta ejecución del código depende de una conexión **estable** de internet.  
-* Evitar reducir el tiempo de envío de mensaje (17 seg) que está establecido en el código. Dependete de tu **velocidad** de internet.
+* Evitar reducir el tiempo de envío de mensaje (17 seg) que está establecido en el código. Depende de tu **velocidad** de internet.
 
 
 ## Advertencia
