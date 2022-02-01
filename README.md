@@ -10,14 +10,6 @@ Este notebook (python) te permite enviar mensajes masivos de WhatsApp.
   <img src="https://c.tenor.com/O29iHtSG6OsAAAAC/jim-carrey-jim-carrey-typing.gif"/>
 </p>
 
-<p align="center">
-  <img src="https://dilooapp.files.wordpress.com/2016/06/funny-jim-carrey-typing-gif-picture.gif"/>
-</p>
-
-<p align="center">
-  <img src="https://c.tenor.com/HjnuCt2vyuEAAAAC/typing-jim-carrey.gif"/>
-</p>
-
 
 ## Carpetas
 📁 [01_input](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/tree/main/01_input): Contiene el excel con los números y mensajes a enviar, así como el chromDriver.exe.  
@@ -37,7 +29,9 @@ Este notebook (python) te permite enviar mensajes masivos de WhatsApp.
 * **PASO 1:** Descargar el repositorio.  
 * **PASO 2:** Cumplir con los requisitos previos.  
 * **PASO 3:** Modificar las rutas del directorio (MAIN, INPUT y OUTPUT).  
-* **PASO 4:** Modificar el nombre del archivo y las columnas a lo largo del código.
+* **PASO 4:** Modificar el nombre del archivo y las columnas del excel importado en las líneas de código que dependan de este.
+* **PASO 5:** Ejecutar el notebook.
+* **PASO 6:** Esperar que el código haga su magia
 
 
 ## Notas
