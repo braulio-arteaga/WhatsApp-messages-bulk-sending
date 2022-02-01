@@ -31,7 +31,7 @@ Este notebook (python) te permite enviar mensajes masivos de WhatsApp.
 * **PASO 3:** Modificar las rutas del directorio (MAIN, INPUT y OUTPUT).  
 * **PASO 4:** Modificar el nombre del archivo y las columnas del excel importado en las líneas de código que dependan de este.
 * **PASO 5:** Ejecutar el notebook.
-* **PASO 6:** Esperar que el código haga su magia
+* **PASO 6:** Esperar que el código haga su magia.
 
 
 ## Notas
