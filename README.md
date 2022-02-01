@@ -26,7 +26,7 @@ Este notebook (python) te permite enviar mensajes masivos de WhatsApp.
 
 ## Requisitos   
 * Descargar el chromeDriver.exe ([click aquí](https://chromedriver.chromium.org/downloads)) según la versión de tu navegador chrome. 
-* Instalar los siguinetes paquetes:  
+* Instalar los paquetes:  
 `pip install pandas`  (data manipulation)  
 `pip install selenium`  (scraping)    
 `pip install webdriver_manager`  (scraping)  
