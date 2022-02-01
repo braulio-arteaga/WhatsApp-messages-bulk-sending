@@ -6,6 +6,11 @@ Este notebook (python) te permite enviar mensajes masivos de WhatsApp.
 * La ejecución del [notebook](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/blob/main/02_codes/01_send_wsp_selenium.ipynb) no impide realizar otras tareas en simultáneo con tu portátil/pc. 🤗 
 * Al finalizar, se obtiene un [reporte](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/blob/main/03_output/report_send_wsp_30-01-22.xlsx) sobre el estado de envío de los mensajes según número de contacto ¡Así validas sí todos los sms fueron entregados! 💯
 
+## Carpetas
+📁 [01_input](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/tree/main/01_input): Contiene un excel con los números y sus mensajes correspondientes de interés, así como el chromDriver.exe (versión 97.0.4692.71).  
+📁 [02_codes](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/tree/main/02_codes): Contiene el notebook que realiza la automatización del envío de mensajes.  
+📁 [03_output](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/tree/main/03_output): Contiene el reporte final de envío de mensajes.
+
 ## Requisitos   
 * Descargar el chromeDriver.exe ([click aquí](https://chromedriver.chromium.org/downloads)) según la versión de tu navegador chrome. 
 * Instalar los siguinetes paquetes:  
@@ -14,12 +19,6 @@ Este notebook (python) te permite enviar mensajes masivos de WhatsApp.
 `pip install webdriver_manager`  (scraping)  
 `pip install datetime` (current date)  
 `pip install pytz` (time zone)
-
-## Carpetas
-📁 [01_input](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/tree/main/01_input): Contiene un excel con los números y sus mensajes correspondientes de interés, así como el chromDriver.exe (versión 97.0.4692.71).  
-📁 [02_codes](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/tree/main/02_codes): Contiene el notebook que realiza la automatización del envío de mensajes.  
-📁 [03_output](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/tree/main/03_output): Contiene el reporte final de envío de mensajes.
-
 
 ## Aplicación
 
