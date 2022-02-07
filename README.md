@@ -31,13 +31,16 @@ Este notebook (python) te permite enviar mensajes masivos de WhatsApp.
 * **PASO 3:** Modificar las rutas del directorio.
 * **PASO 4:** Modificar el nombre del archivo y las columnas del excel importado en las líneas de código que dependan de este.
 * **PASO 5:** Ejecutar el notebook.
-* **PASO 6:** Esperar que el código haga su magia.
+* **PASO 6:** Esperar que el código haga su magia.  
+* **PASO 7 (opcional):** Intentar de nuevo con los números que tuvieron problemas con la recepción del mensaje. 
 
 
 ## Notas
 * Los número de teléfono **no necesariamente** deben estar guardados previamente en la cuenta de WhatsApp desde dónde se enviarán los mensajes.  
+* Se recomienda probar al menos 2 veces con aquellos números que no recibieron el mensaje de forma efectiva (paso 7).
 * La correcta ejecución del código depende de una conexión **estable** de internet.  
-* Cambiar el tiempo de envío establecido por mensaje (16 seg) depende de tu **velocidad** de internet.
+* Cambiar el tiempo total de envío establecido por mensaje (16 seg) depende de tu **velocidad** de internet.  
+
 
 
 ## Advertencia
