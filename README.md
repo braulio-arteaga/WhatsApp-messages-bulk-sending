@@ -17,7 +17,6 @@ Este notebook (python) te permite enviar mensajes masivos de WhatsApp.
 📁 [03_output](https://github.com/braulio-arteaga/WhatsApp-messages-bulk-sending/tree/main/03_output): Contiene el reporte final de los estados de envío.
 
 ## Requisitos   
-* Descargar el chromeDriver.exe ([click aquí](https://chromedriver.chromium.org/downloads)) según la versión de tu navegador chrome. 
 * Instalar los paquetes:  
 `pip install pandas`  (data manipulation)  
 `pip install selenium`  (scraping)    
